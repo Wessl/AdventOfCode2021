@@ -5,7 +5,7 @@ namespace solutions
 {
     class One
     {
-        static void Main()
+        static void Solve()
         {
             // Three measurement sliding window
             string line;
