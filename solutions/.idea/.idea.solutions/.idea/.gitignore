@@ -1,0 +1,11 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/.idea.solutions.iml
+/modules.xml
+/projectSettingsUpdater.xml
+/contentModel.xml
+# Datasource local storage ignored files
+/../../../../../../../../../../:\Users\love\Documents\Github Desktop\AdventOfCode2021\solutions\.idea\.idea.solutions\.idea/dataSources/
+/dataSources.local.xml

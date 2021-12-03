@@ -6,7 +6,7 @@ namespace solutions.Two
 {
     public class Part2
     {
-        public static void Main()
+        public static void Solve()
         {
             string line;
             List<string> commandLines = new List<string>();
