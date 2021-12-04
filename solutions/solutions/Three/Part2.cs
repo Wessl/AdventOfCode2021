@@ -11,7 +11,7 @@ namespace solutions.Three
         static char[,] lArr;
         private static int oxygen = 0;
         private static int co2 = 0;
-        public static void Main()
+        public static void Solution()
         {
             string line;
             lines = new List<string>();
