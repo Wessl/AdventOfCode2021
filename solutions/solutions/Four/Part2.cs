@@ -10,7 +10,7 @@ namespace solutions.Four
     {
         private static List<int[,]> bingoBoards;
         private static List<int[,]> bingoBoardSpotsGot;
-        public static void Main(string[] args)
+        public static void Solution()
         {
             bingoBoards = new List<int[,]>();
             bingoBoardSpotsGot = new List<int[,]>();
