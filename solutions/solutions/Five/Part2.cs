@@ -6,7 +6,7 @@ namespace solutions.Five
 {
     public class Part2
     {
-        public static void Main(string[] args)
+        public static void Solution()
         {
             string[] inpLines = System.IO.File.ReadAllLines(@"C:\Users\love\Documents\Github Desktop\AdventOfCode2021\solutions\solutions\Five\input.txt");
             List<Line> lines = new List<Line>();

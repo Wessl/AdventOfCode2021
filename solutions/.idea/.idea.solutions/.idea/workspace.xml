@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5feb2d59-44d5-420f-a9cb-cdaa03bf653d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/solutions/Five/Part1.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solutions/Five/Part2.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/Four/Part2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/Four/Part2.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions/Six/Part1.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions/Six/Part2.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions/Six/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions/Six/test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.solutions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.solutions/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/Five/Part2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/Five/Part2.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +92,8 @@
       <workItem from="1638382342980" duration="1980000" />
       <workItem from="1638435509122" duration="3027000" />
       <workItem from="1638529718197" duration="9564000" />
-      <workItem from="1638613046082" duration="15190000" />
+      <workItem from="1638613046082" duration="15807000" />
+      <workItem from="1638768173582" duration="6162000" />
     </task>
     <servers />
   </component>
@@ -97,7 +101,7 @@
     <option name="version" value="3" />
   </component>
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
