@@ -7,7 +7,7 @@ namespace solutions.Six
 {
     public class Part2
     {
-        public static void Main(string[] args)
+        public static void Solution()
         {
             string[] inpLines = System.IO.File.ReadAllLines(@"C:\Users\love\Documents\Github Desktop\AdventOfCode2021\solutions\solutions\Six\input.txt");
             int[] snums = Array.ConvertAll(inpLines[0].Split(","), int.Parse);
