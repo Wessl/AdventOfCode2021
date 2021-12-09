@@ -5,13 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5feb2d59-44d5-420f-a9cb-cdaa03bf653d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/solutions/Seven/Part1.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solutions/Seven/Part2.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solutions/Seven/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solutions/Seven/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions/Nine/Part1.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions/Nine/Part2.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions/Nine/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions/Nine/test.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.solutions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.solutions/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/Five/test.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/Six/Part2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/Six/Part2.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/Seven/Part2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/Seven/Part2.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +19,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
@@ -96,6 +103,7 @@
       <workItem from="1638613046082" duration="15807000" />
       <workItem from="1638768173582" duration="7809000" />
       <workItem from="1638861453508" duration="1006000" />
+      <workItem from="1639030088154" duration="3776000" />
     </task>
     <servers />
   </component>
