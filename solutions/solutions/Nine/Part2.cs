@@ -9,7 +9,7 @@ namespace solutions.Nine
         private static int[,] nums;
         private static int counter;
         
-        public static void Main(string[] args)
+        public static void Solution()
         {
             string[] inpLines = System.IO.File.ReadAllLines(@"C:\Users\love\Documents\Github Desktop\AdventOfCode2021\solutions\solutions\Nine\input.txt");
             nums = new int[inpLines[0].Length, inpLines.Length];
